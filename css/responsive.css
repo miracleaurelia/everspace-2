@@ -427,9 +427,6 @@
 }
 
 @media (max-width: 440px) {
-    .site-logo img {
-        height: 22px;
-    }
     .blog-social li + li {
         margin-left: 0;
     }
